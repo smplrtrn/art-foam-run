@@ -1,7 +1,7 @@
 
  {
-    "short_name": "Foam Run",
-    "name": "The Foam Run",
+    "short_name": "Demo PWA",
+    "name": "Svelte-kit Demo PWA",
     "icons": [
       {
         "src": "pwa-192x192.png",
